@@ -1,6 +1,7 @@
 ### Hello
+![image](https://imgur.com/azyy5Tf.gif)
 
-Currently I work as a data analyst and will start the master's program in computer science in fall 2020 at the University of Pennsylvania.
+**Data Analyst and Master's Candidate in Comp Sci from the University of Pennsylvania.**
 
 ```bash
 - 🔭 I’m currently working on library web app
