@@ -1,4 +1,4 @@
-![License](https://img.shields.io/github/license/bexxmodd/bexxmodd?style=flat)
+
 ![ViewCount](https://views.whatilearened.today/views/github/bexxmodd/bexxmodd.svg?cache=remove)
 ## Greetings from Beka!
 
