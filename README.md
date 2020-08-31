@@ -40,4 +40,14 @@ Master\'s candidate in Computer Science from the University of Pennsylvania.
 ----------
 ### For More Interesting Content Follow Me On Social Media
 
-[<img src="https://i.imgur.com/fFlVB1c.png">](https://www.twitter.com/bexxmodd) [<img src="https://i.imgur.com/wcvwfoZ.png">](https://www.linkedin.com/in/bmodebadze) [<img src="https://i.imgur.com/gnDF5oQ.png">](https://www.github.com/bexxmodd) 
+<p align="center">
+	<a href="https://www.twitter.com/bexxmodd">
+        	<img alt="twitter" src="https://i.imgur.com/fFlVB1c.png">
+	</a>
+	<a href="https://www.linkedin.com/in/bmodebadze">
+        	<img alt="linkedin" src="https://i.imgur.com/wcvwfoZ.png">
+	</a>
+	<a href="https://www.github.com/bexxmodd">
+        	<img alt="github" src="https://i.imgur.com/gnDF5oQ.png">
+	</a>
+</p>
