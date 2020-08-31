@@ -18,7 +18,7 @@ I\'m preventing medical frauds using predictive data science.
 </p>
 
 -----
-### $KILLZ: Languages & Framekworks
+### Languages & Framekworks & Whatnots
 
 <p align="center">
 	<img title="Python" src="https://i.imgur.com/kYqNRW2.png" height="50" />
@@ -36,7 +36,7 @@ I\'m preventing medical frauds using predictive data science.
 </p>
 
 ----------
-### For More Interesting Content Follow Me On $ocial Media
+### For More Content Follow Me On Social Media
 
 <p align="center">
 	<a href="https://www.twitter.com/bexxmodd">
