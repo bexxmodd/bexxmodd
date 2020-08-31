@@ -2,18 +2,16 @@
 	<img title="Python" src="https://media0.giphy.com/media/VdzWdSs9U2fvn4DVKx/giphy.gif" width=640>
  </p>
 
-```bash
-> $ bio --about
+### About
 :robot: Aspiring developer with an immense interest in data science, machine learning,
 and everything that will automate boring and repetitive tasks.
 
-> $ bio --occupation
+### Occupation
 :space_invader: I work as a Data Analyst for the biggest CMS contractor.
 I\'m preventing medical frauds using predictive data science.
 
-> $ bio --education
+### Education
 :computer: Master\'s candidate in Computer Science from the University of Pennsylvania.
-```
 
 <p align="center">
   <img title="Stats" src="https://github-readme-stats.vercel.app/api?username=bexxmodd&show_icons=true&theme=synthwave"/>
