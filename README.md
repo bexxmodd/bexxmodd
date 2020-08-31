@@ -1,5 +1,6 @@
-![image](https://media1.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif)
-
+<p align="center">
+	<img title="Python" src="https://media1.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif" />
+ </p>
 
 ```bash
 > $ bio --about
@@ -14,9 +15,27 @@ I\'m preventing medical frauds using predictive data science.
 Master\'s candidate in Computer Science from the University of Pennsylvania.
 ```
 
-![Bexx's github stats](https://github-readme-stats.vercel.app/api?username=bexxmodd&show_icons=true&theme=synthwave)
 
+<p align="center">
+  <img title="Stats" src="https://github-readme-stats.vercel.app/api?username=bexxmodd&show_icons=true&theme=synthwave"/>
+</p>
 
+-----
+### SKILLZ: Languages & Framekworks
+
+<p align="center">
+	<img title="Python" src="https://i.imgur.com/kYqNRW2.png" height="50" />
+  <img title="Java" src="https://i.imgur.com/LDa5yPp.png" height="50" />
+	<img title="Rust" src="https://i.imgur.com/kou8DSj.png" height="50" />
+	<img title="Flask" src="https://i.imgur.com/3PrfweW.png" height="50" />
+  <img src="https://i.imgur.com/7pTyNw5.png" alt="notebook" height="50"/>
+  <img src="https://i.imgur.com/DRtznPB.png" alt="postgres" height="50"/>
+  <img src="https://i.imgur.com/DG1ai5x.png" alt="mysql" height="50"/>
+  <img src="https://i.imgur.com/2f8ghU7.png" alt="git" height="50"/>
+  <img src="https://i.imgur.com/ZjwYyO4.png" alt="manjaro" height="50"/>
+  <img src="https://i.imgur.com/wiYdaql.png" alt="ubuntu" height="50"/>
+  <img src="https://i.imgur.com/8ChUMCl.png" alt="bash" height="50"/>
+</p>
 
 ----------
 ### For More Interesting Content Follow Me On Social Media
