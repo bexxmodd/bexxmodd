@@ -4,20 +4,16 @@
 
 ```bash
 > $ bio --about
-```
 :robot: Aspiring developer with an immense interest in data science, machine learning,
 and everything that will automate boring and repetitive tasks.
 
-```bash
 > $ bio --occupation
-```
 :space_invader: I work as a Data Analyst for the biggest CMS contractor.
 I\'m preventing medical frauds using predictive data science.
 
-```bash
 > $ bio --education
-```
 :computer: Master\'s candidate in Computer Science from the University of Pennsylvania.
+```
 
 <p align="center">
   <img title="Stats" src="https://github-readme-stats.vercel.app/api?username=bexxmodd&show_icons=true&theme=synthwave"/>
