@@ -39,6 +39,10 @@ I\'m preventing medical frauds using predictive data science.
 </p>
 
 ----------
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### For More Content Follow Me On Social Media
 
 <p align="center">
