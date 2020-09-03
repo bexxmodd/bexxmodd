@@ -16,13 +16,14 @@ I\'m preventing medical frauds using predictive data science.
 ### Education
 :computer: Master\'s candidate in Computer Science from the University of Pennsylvania.
 
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
 <p align="center">
   <img title="Stats" src="https://github-readme-stats.vercel.app/api?username=bexxmodd&show_icons=true&theme=synthwave"/>
 </p>
+
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 -----
 ### Languages & Framekworks & Whatnots
