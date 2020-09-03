@@ -22,7 +22,7 @@ I\'m preventing medical frauds using predictive data science.
 </p>
 
 
-### My Coding Activity for The Past Week
+### Activity for The Past Week
 <!--START_SECTION:waka-->
 ```text
 Week: 26 August, 2020 - 02 September, 2020
