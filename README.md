@@ -16,19 +16,14 @@ I\'m preventing medical frauds using predictive data science.
 ### Education
 :computer: Master\'s candidate in Computer Science from the University of Pennsylvania.
 
-<p align="left">
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+<p align="center">
   <img title="Stats" src="https://github-readme-stats.vercel.app/api?username=bexxmodd&show_icons=true&theme=synthwave"/>
 </p>
 
-<!--START_SECTION:waka-->
-```text
-Python   4 hrs 1 min     ████████████████░░░░░░░░░   64.11 % 
-Java     1 hr 37 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.85 % 
-TeX      29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
-HTML     7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-```
-<!--END_SECTION:waka-->
 -----
 ### Languages & Framekworks & Whatnots
 
