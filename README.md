@@ -25,13 +25,13 @@ I\'m preventing medical frauds using predictive data science.
 ### Activity for The Past Week
 <!--START_SECTION:waka-->
 ```text
-Week: 27 August, 2020 - 03 September, 2020
+Week: 28 August, 2020 - 04 September, 2020
 
-Python   6 hrs 47 mins   █████████████████▒░░░░░░░   68.74 % 
-Java     2 hrs 27 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.82 % 
-TeX      29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-HTML     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Python   9 hrs 45 mins   ███████████████████░░░░░░   75.98 % 
+Java     2 hrs 27 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.08 % 
+TeX      29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+HTML     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 ```
 <!--END_SECTION:waka-->
 
