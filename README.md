@@ -25,11 +25,11 @@ I\'m preventing medical frauds using predictive data science.
 ### Activity for The Past Week
 <!--START_SECTION:waka-->
 ```text
-Week: 28 October, 2020 - 04 November, 2020
+Week: 29 October, 2020 - 05 November, 2020
 
-Java         6 hrs 18 mins   ██████████████████░░░░░░░   72.64 % 
-TeX          2 hrs 14 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.80 % 
-Git Config   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Java         6 hrs 41 mins   ██████████████████▒░░░░░░   73.92 % 
+TeX          2 hrs 14 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.70 % 
+Git Config   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 ```
 <!--END_SECTION:waka-->
 
