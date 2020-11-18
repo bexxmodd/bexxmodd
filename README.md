@@ -21,19 +21,6 @@ I\'m preventing medical frauds using predictive data science.
   <img title="Stats" src="https://github-readme-stats.vercel.app/api?username=bexxmodd&show_icons=true&theme=synthwave"/>
 </p>
 
-
-### Activity for The Past Week
-<!--START_SECTION:waka-->
-```text
-Week: 10 November, 2020 - 17 November, 2020
-
-Python   1 hr 5 mins     █████████████▒░░░░░░░░░░░   53.18 % 
-TeX      42 mins         ████████▓░░░░░░░░░░░░░░░░   34.63 % 
-SQL      11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-Java     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-```
-<!--END_SECTION:waka-->
-
 -----
 ### Languages & Framekworks & Whatnots
 
