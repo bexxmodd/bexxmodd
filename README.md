@@ -28,6 +28,7 @@ I\'m preventing medical frauds using predictive data science.
 	<img title="Python" src="https://i.imgur.com/kYqNRW2.png" height="40"/>
  	<img title="Java" src="https://i.imgur.com/LDa5yPp.png" height="40" hspace="5"/>
 	<img title="Rust" src="https://i.imgur.com/kou8DSj.png" height="40" hspace="10"/>
+	<img title="Sklearn" src="https://rb.gy/qkumh0" height="40" hspace="10"/>
 	<img title="Flask" src="https://i.imgur.com/3PrfweW.png" height="40" hspace="10"/>
 	<img src="https://i.imgur.com/7pTyNw5.png" alt="notebook" height="40" hspace="10"/>
 	<img src="https://i.imgur.com/DRtznPB.png" alt="postgres" height="40" hspace="10"/>
