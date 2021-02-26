@@ -1,10 +1,4 @@
 ![ViewCount](https://views.whatilearened.today/views/github/bexxmodd/bexxmodd.svg?cache=remove)
-## Greetings from Beka!
-
-<p align="center">
-	<img title="Python" src="https://media0.giphy.com/media/VdzWdSs9U2fvn4DVKx/giphy.gif" width=640>
- </p>
-
 ### About
 :robot:
 
