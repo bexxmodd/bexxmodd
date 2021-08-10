@@ -1,6 +1,6 @@
 ![ViewCount](https://views.whatilearened.today/views/github/bexxmodd/bexxmodd.svg?cache=remove)
 
-Master\'s candidate in Computer Science from the University of Pennsylvania.
+Software Engineer and Master\'s candidate in Computer Science from the University of Pennsylvania.
 
 
 <p align="center">
