@@ -4,9 +4,9 @@ Software Engineer and Master\'s candidate in Computer Science from the Universit
 
 At work I mainly use C# and C++, less frequently Python (mainly for scripting or data analysis).
 
-Currently I'm taking AI class where implement search algorithms and build deep learning models. I also write logs about Rust on my [blog](https://www.bexxmodd.com/logs)
+Currently I'm taking Networked Systems class. I also write logs about Rust and similar technologies on my [blog](https://www.bexxmodd.com/logs)
 
-2022 Resolution is to learn functional programming and Networked Systems.
+2022 Resolution is to learn Functional Programming and Distributed Systems.
 
 
 <p align="center">
