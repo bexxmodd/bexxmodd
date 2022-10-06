@@ -1,12 +1,10 @@
 ![ViewCount](https://views.whatilearened.today/views/github/bexxmodd/bexxmodd.svg?cache=remove)
 
-Software Engineer and Master\'s candidate in Computer Science from the University of Pennsylvania. I work on various toy projects with Rust.
+I'm a Software Engineer at Google and Master\'s candidate in Computer Science from the University of Pennsylvania. In my professional career I write code for Android devices but in my personal time I work on projects with Rust and Kotlin.
 
-At work I mainly in Java and C++, less frequently Python (mainly for scripting).
+Currently I'm taking Web Systems class and mastering Kotlin. I write logs about opinions, guides, and tutorials about various technologies on my [blog](https://www.bexxmodd.com/logs)
 
-Currently I'm taking Networked Systems class and learning Kotlin. I also write logs about Rust and other technologies on my [blog](https://www.bexxmodd.com/logs)
-
-2022 Resolution is to learn Functional Programming, Kotlin, and get better hold of Distributed Systems.
+2022 Resolution is to learn Functional Programming, Kotlin, and get better hold of Android SDK.
 
 
 <p align="center">
