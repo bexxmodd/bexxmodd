@@ -1,6 +1,6 @@
 ![ViewCount](https://views.whatilearened.today/views/github/bexxmodd/bexxmodd.svg?cache=remove)
 
-I'm a Software Engineer at Google and Master\'s candidate in Computer Science from the University of Pennsylvania. In my professional career I write code for Android devices but in my personal time I work on projects with Rust and Kotlin.
+I'm a Software Engineer at Google where I build client-side infrastructure to create the seamless integration of Google Assistant on various devices and also supercharge them with LLMs. My problem-solving powers extends to Kotlin, Java, C++, Rust, and Python, where I bring innovative solutions.
 
 Currently I'm taking Web Systems class and mastering Kotlin. I write logs about opinions, guides, and tutorials about various technologies on my [blog](https://www.bexxmodd.com/logs)
 
