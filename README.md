@@ -1,5 +1,5 @@
 ![ViewCount](https://views.whatilearened.today/views/github/bexxmodd/bexxmodd.svg?cache=remove)
 
-* Software Engineer at Google Cloud, working on Google Kubernetes Engine.
+* Software Engineer at Google Cloud, working on GKE Gateway Infrastructure.
 * Contributor to the Gateway API and Inference Gateway projects.
 * Master's in Computer Science from the University of Pennsylvania
