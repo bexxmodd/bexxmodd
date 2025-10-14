@@ -2,3 +2,4 @@
 
 * Software Engineer at Google Cloud, working on Google Kubernetes Engine.
 * Contributor to the Gateway API and Inference Gateway projects.
+* Master's in Computer Science from the University of Pennsylvania
